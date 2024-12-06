@@ -32,4 +32,4 @@ Kimaya: Back-end Development
 
 Howie (Luo): Full Stack Development, Google Maps integration, and Database Management
 
-Darren, Mati, and Yaacob: Front-end Development
+Darren: Front-end Development
