@@ -10,7 +10,7 @@ const App = () => {
     <Router>
       <div>
         <nav className="navbar">
-          <Link to="/" className="nav-logo">Trip Planner</Link>
+          <Link to="/" className="nav-logo">Itinify </Link>
           <div className="nav-links">
             <Link to="/" className="nav-link">Home</Link>
             <Link to="/itinerary" className="nav-link">Itinerary</Link>
